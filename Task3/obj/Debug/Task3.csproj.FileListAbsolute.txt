@@ -1,0 +1,7 @@
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson5\Task3\bin\Debug\Task3.exe.config
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson5\Task3\bin\Debug\Task3.exe
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson5\Task3\bin\Debug\Task3.pdb
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson5\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson5\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson5\Task3\obj\Debug\Task3.exe
+C:\Users\Gnidez\source\repos\SystemProgrammingLesson5\Task3\obj\Debug\Task3.pdb
